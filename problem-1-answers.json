@@ -1,0 +1,20 @@
+[
+  {
+    "Villager_ID": "5",
+    "name": "Isabella Crowe",
+    "festivalName": "Festival of Shadows",
+    "deathDate": "1823-10-27"
+  },
+  {
+    "Villager_ID": "8",
+    "name": "Ezra Darkmoor",
+    "festivalName": "Summer Solstice Sacrifice",
+    "deathDate": "1805-06-22"
+  },
+  {
+    "Villager_ID": "1",
+    "name": "Elena Wraithwood",
+    "festivalName": "Eternal Night Vigil",
+    "deathDate": "1845-01-04"
+  }
+]
